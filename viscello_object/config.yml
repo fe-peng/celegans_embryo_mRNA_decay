@@ -1,6 +1,0 @@
-default:
-    study_name: "C. elegans mRNA decay, all reps integrated"
-    study_description: "All reps for actd- and mock-treated cells (0M, 20A, 40A, 40M)"
-    organism: "cel" # choose from mmu (mouse), hsa (human) and cel (C.elegans)
-    feature_name_column: "symbol"
-    feature_id_column: "symbol" # Set this to be same as name col if feature id column not available
